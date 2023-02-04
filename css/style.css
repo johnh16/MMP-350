@@ -1,4 +1,10 @@
-.projects{
-    display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
+.rec{
+    display:flex;
+    gap:2em;
+    margin:2em;
+}
+.rectangle{
+    width:24rem;
+    height:24rem;
+    background:rgb(227, 227, 114);
 }
