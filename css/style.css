@@ -1,10 +1,10 @@
-.rec{
-    display:flex;
-    gap:2em;
-    margin:2em;
+.title{
+    padding:80px;
+    text-align:center;
+    background:rgb(238, 238, 135);
+    color:white;
 }
-.rectangle{
-    width:24rem;
-    height:24rem;
-    background:rgb(227, 227, 114);
+
+.headr h1{
+    font-size:40px;
 }
