@@ -53,6 +53,10 @@ html{
     float:none;
 }
 
+p.ex1{
+    padding: 50px;
+}
+
 .column{
     float:left;
     width:33.3%;
