@@ -53,14 +53,16 @@ html{
     float:none;
 }
 
+p{
+    background-color:rgb(252, 252, 129);
+}
+
 p.ex1{
     padding:100px;
-    color: rgb(249, 249, 140);
 }
 
 p.ex2{
     padding:100px;
-    color:rgb(249, 249, 140);
 }
 
 .column{
